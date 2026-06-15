@@ -67,7 +67,7 @@ Contribute to open-source server tooling designed around real local workflows.
 <tr>
 <td width="130" align="center">
   <a href="https://github.com/PocketMC/pocket-mc-windows">
-    <img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/master/docs/assets/logo.png" width="100" alt="PocketMC Windows Logo" />
+    <img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/refs/heads/master/docs/assets/branding/logo.png" width="100" alt="PocketMC Windows Logo" />
   </a>
 </td>
 <td>
@@ -142,7 +142,7 @@ Native Windows desktop app for creating, running, monitoring, backing up, and sh
 <tr>
 <td width="130" align="center">
   <a href="https://github.com/PocketMC/pocket-mc-website">
-    <img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/master/docs/assets/logo.png" width="100" alt="PocketMC Website Logo" />
+    <img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/refs/heads/master/docs/assets/branding/logo.png" width="100" alt="PocketMC Website Logo" />
   </a>
 </td>
 <td>
