@@ -37,21 +37,21 @@ PocketMC is built for people who want the control of local hosting with the conv
 <tr>
 <td width="33%" align="center">
 
-### 🎮 Players
+### Players
 
 Host a server for friends without becoming an accidental system administrator.
 
 </td>
 <td width="33%" align="center">
 
-### 🧩 Server Owners
+### Server Owners
 
 Manage Java, Bedrock, plugins, mods, cross-play, backups, and logs from one place.
 
 </td>
 <td width="33%" align="center">
 
-### 🛠️ Builders
+### Builders
 
 Contribute to open-source server tooling designed around real local workflows.
 
@@ -86,17 +86,17 @@ Windows desktop app to locally host and manage Minecraft Java and Bedrock Editio
 
 | Area                 | Features                                                               |
 | -------------------- | ---------------------------------------------------------------------- |
-| 🧱 Server Instances  | Create isolated Minecraft server instances from the desktop UI         |
-| ▶️ Lifecycle         | Start, stop, restart, and kill servers from the dashboard or tray flow |
-| ☕ Runtime Management | App-local Java provisioning and runtime selection                      |
-| 🪨 Bedrock Hosting   | Bedrock Dedicated Server and PocketMine-MP workflows                   |
-| 🌉 Cross-play        | Java ↔ Bedrock support with Geyser and Floodgate                       |
-| 🌍 Public Access     | Guided Playit.gg tunnel integration                                    |
-| 📊 Monitoring        | CPU, RAM, player state, and server status visibility                   |
-| 🧾 Console           | Live logs, command input, filtering, and crash visibility              |
-| 💾 Backups           | Manual and scheduled backups                                           |
-| 🔁 Restore           | Restore worlds and server data safely                                  |
-| 🧠 AI Assistance     | Optional AI-generated session summaries using user-provided API keys   |
+| Server Instances  | Create isolated Minecraft server instances from the desktop UI         |
+| Lifecycle         | Start, stop, restart, and kill servers from the dashboard or tray flow |
+| Runtime Management | App-local Java provisioning and runtime selection                      |
+| Bedrock Hosting   | Bedrock Dedicated Server and PocketMine-MP workflows                   |
+| Cross-play        | Java ↔ Bedrock support with Geyser and Floodgate                       |
+| Public Access     | Guided Playit.gg tunnel integration                                    |
+| Monitoring        | CPU, RAM, player state, and server status visibility                   |
+| Console           | Live logs, command input, filtering, and crash visibility              |
+| Backups           | Manual and scheduled backups                                           |
+| Restore           | Restore worlds and server data safely                                  |
+| AI Assistance     | Optional AI-generated session summaries using user-provided API keys   |
 
 ### Supported Server Families
 
@@ -169,14 +169,14 @@ The official landing page and web frontend for the PocketMC ecosystem. Built wit
 
 | Repository                                                           | Purpose                                                        | Status |
 | -------------------------------------------------------------------- | -------------------------------------------------------------- | ------ |
-| [`pocket-mc-windows`](https://github.com/PocketMC/pocket-mc-windows) | Main Windows desktop app for local Minecraft server management | Active |
-| [`pocket-mc-website`](https://github.com/PocketMC/pocket-mc-website) | Official PocketMC website and landing page                     | Active |
-| [`pocket-mc-android`](https://github.com/PocketMC/pocket-mc-android) | Android platform exploration                                   | Early  |
-| [`pocket-mc-ios`](https://github.com/PocketMC/pocket-mc-ios)         | iOS platform exploration                                       | Early  |
-| [`pocket-mc-linux`](https://github.com/PocketMC/pocket-mc-linux)     | Linux platform exploration                                     | Early  |
-| [`pocket-mc-mac`](https://github.com/PocketMC/pocket-mc-mac)         | macOS platform exploration                                     | Early  |
-| [`.github`](https://github.com/PocketMC/.github)                     | Organization profile and community files                       | Config |
-| [`pocket-mc-telemetry`](https://github.com/PocketMC/pocket-mc-telemetry) | Telemetry service for PocketMC ecosystem                       | Active |
+| [`pocket-mc-windows`](https://github.com/PocketMC/pocket-mc-windows) | Main Windows desktop app for local Minecraft server management | ![Active](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square) |
+| [`pocket-mc-website`](https://github.com/PocketMC/pocket-mc-website) | Official PocketMC website and landing page                     | ![Active](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square) |
+| [`pocket-mc-android`](https://github.com/PocketMC/pocket-mc-android) | Android platform exploration                                   | ![Early](https://img.shields.io/badge/Status-Early-EAB308?style=flat-square) |
+| [`pocket-mc-ios`](https://github.com/PocketMC/pocket-mc-ios)         | iOS platform exploration                                       | ![Early](https://img.shields.io/badge/Status-Early-EAB308?style=flat-square) |
+| [`pocket-mc-linux`](https://github.com/PocketMC/pocket-mc-linux)     | Linux platform exploration                                     | ![Early](https://img.shields.io/badge/Status-Early-EAB308?style=flat-square) |
+| [`pocket-mc-mac`](https://github.com/PocketMC/pocket-mc-mac)         | macOS platform exploration                                     | ![Early](https://img.shields.io/badge/Status-Early-EAB308?style=flat-square) |
+| [`.github`](https://github.com/PocketMC/.github)                     | Organization profile and community files                       | ![Config](https://img.shields.io/badge/Status-Config-3B82F6?style=flat-square) |
+| [`pocket-mc-telemetry`](https://github.com/PocketMC/pocket-mc-telemetry) | Telemetry service for PocketMC ecosystem                       | ![Active](https://img.shields.io/badge/Status-Active-22C55E?style=flat-square) |
 
 ---
 
@@ -219,14 +219,14 @@ PocketMC turns that mess into a guided desktop workflow with sane defaults, visi
 <tr>
 <td width="50%">
 
-### 🏠 Local-first
+### Local-first
 
 Your servers, worlds, backups, logs, configs, and runtimes stay under the root folder you choose.
 
 </td>
 <td width="50%">
 
-### 🧰 Practical over flashy
+### Practical over flashy
 
 PocketMC focuses on real server workflows, not decorative dashboards pretending to be productivity.
 
@@ -235,14 +235,14 @@ PocketMC focuses on real server workflows, not decorative dashboards pretending 
 <tr>
 <td width="50%">
 
-### 🧪 Safe by default
+### Safe by default
 
 Backups, restores, path handling, locked files, provider failures, and update flows are treated seriously.
 
 </td>
 <td width="50%">
 
-### 🧑‍💻 Beginner-friendly, not toy-grade
+### Beginner-friendly, not toy-grade
 
 Simple enough for casual players, useful enough for technical users who actually know what JVM flags are.
 
