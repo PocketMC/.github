@@ -74,7 +74,7 @@ Contribute to open-source server tooling designed around real local workflows.
 
 ### [PocketMC Windows](https://github.com/PocketMC/pocket-mc-windows)
 
-Native Windows desktop app for creating, running, monitoring, backing up, and sharing Minecraft Java and Bedrock servers locally.
+Windows desktop app to locally host and manage Minecraft Java and Bedrock Edition servers without any mess.
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square\&logo=windows\&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white) ![Minecraft Servers](https://img.shields.io/badge/Minecraft%20Servers-22C55E?style=flat-square) ![MIT](https://img.shields.io/github/license/PocketMC/pocket-mc-windows?style=flat-square)
 
@@ -149,7 +149,7 @@ Native Windows desktop app for creating, running, monitoring, backing up, and sh
 
 ### [PocketMC Website](https://github.com/PocketMC/pocket-mc-website)
 
-The official PocketMC landing page for screenshots, features, updates, and project information.
+The official landing page and web frontend for the PocketMC ecosystem. Built with Vite, React, TypeScript, and Tailwind CSS.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square\&logo=githubpages\&logoColor=white)
 
@@ -176,6 +176,7 @@ The official PocketMC landing page for screenshots, features, updates, and proje
 | [`pocket-mc-linux`](https://github.com/PocketMC/pocket-mc-linux)     | Linux platform exploration                                     | Early  |
 | [`pocket-mc-mac`](https://github.com/PocketMC/pocket-mc-mac)         | macOS platform exploration                                     | Early  |
 | [`.github`](https://github.com/PocketMC/.github)                     | Organization profile and community files                       | Config |
+| [`pocket-mc-telemetry`](https://github.com/PocketMC/pocket-mc-telemetry) | Telemetry service for PocketMC ecosystem                       | Active |
 
 ---
 
