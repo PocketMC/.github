@@ -2,7 +2,7 @@
 
 <!-- PocketMC Logo -->
 
-<img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/refs/heads/master/docs/assets/branding/logo.png" alt="PocketMC Logo" width="130" />
+<img src="assets/logo.png" alt="PocketMC Logo" width="130" />
 
 ### Local-first Minecraft server management, without the terminal mess.
 
@@ -67,7 +67,7 @@ Contribute to open-source server tooling designed around real local workflows.
 <tr>
 <td width="130" align="center">
   <a href="https://github.com/PocketMC/pocket-mc-windows">
-    <img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/refs/heads/master/docs/assets/branding/logo.png" width="100" alt="PocketMC Windows Logo" />
+    <img src="assets/logo.png" width="100" alt="PocketMC Windows Logo" />
   </a>
 </td>
 <td>
@@ -142,7 +142,7 @@ Native Windows desktop app for creating, running, monitoring, backing up, and sh
 <tr>
 <td width="130" align="center">
   <a href="https://github.com/PocketMC/pocket-mc-website">
-    <img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/refs/heads/master/docs/assets/branding/logo.png" width="100" alt="PocketMC Website Logo" />
+    <img src="assets/logo.png" width="100" alt="PocketMC Website Logo" />
   </a>
 </td>
 <td>
@@ -318,7 +318,7 @@ Minecraft and related names belong to their respective owners.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PocketMC/pocket-mc-windows/refs/heads/master/docs/assets/branding/logo.png" alt="PocketMC Logo" width="80" />
+<img src="assets/logo.png" alt="PocketMC Logo" width="80" />
 
 ### Build servers locally. Manage them cleanly. Keep your worlds yours.
 
